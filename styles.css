@@ -1,0 +1,10 @@
+body {
+    background-color: #81a67c;
+    color: white;
+}
+
+.preditin {
+    padding: 20px;
+    margin: 20px;
+    border: solid #c6f7d1 10px;
+}
